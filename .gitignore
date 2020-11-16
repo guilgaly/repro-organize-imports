@@ -1,0 +1,10 @@
+*.pdf
+.docker-data/
+client-*.js
+client-*.js.map
+dev-resources/depot
+id_rsa
+local.conf
+target/
+tex2pdf*
+/.bsp/
